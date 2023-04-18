@@ -1,1 +1,18 @@
+# Make your own
+
+You can do it manually, create a program for it or use some tools. 
+
+You can use these simple commandline tools. 
+
+I am unaware of any GUI tool.
+
+Linux or WSL(Windows) required for the below. 
+
+I am using sed command to add 0.0.0.0 at start. And soft command to sort.
+
+
+[sed syntax to add at beginning](https://stackoverflow.com/questions/2099471/add-a-prefix-string-to-beginning-of-each-line)
+
+[sort command](https://linuxjourney.com/lesson/sort-command)
+
 
