@@ -6,8 +6,8 @@ I created it to cut down on my comic/manga consumption. There are lot of manga/c
 
 Some websites may contain anime too, but they also contain comics.
 
-HOW TO USE IT
+**HOW TO USE IT**
 
-You can view the Steven Black link to get more details on how to use the hosts file. 
+You can view the Steven Black link to get more details on how to use the hosts file in your system.
 
-You can get the hosts file by clicking on the hosts file and copying it or by downloading the zip..
+You can get the hosts file by clicking on the hosts file and copying it or by downloading the zip.
